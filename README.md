@@ -5,6 +5,7 @@
 # Frontend
 * cd frontend
 * npm install
+* npm start
 
 # backend
 * cd backend
